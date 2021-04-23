@@ -1,0 +1,50 @@
+body{
+    margin: 0px;
+    background-color: wheat;
+    
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    background-color: pink;
+    color: blue;
+    font-style: bold;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+    background-color: coral;
+    color: black;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-size: 20px;
+    margin: 0px;
+}
+
+nav a{
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    padding: 20px;
+    float: left;
+    font-size: 20px;
+}
+
+nav{
+    background-color: white;
+    overflow: hidden;
+}
+nav a:hover{
+    color: turquoise;
+}
+nav a:visited{
+    color: blueviolet;
+}
+h2{
+    margin: 0px;
+    text-align: center;
+    padding: 10px;
+}
